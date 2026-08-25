@@ -58,7 +58,9 @@
 
 ---
 
-> 💡 *"The goal is to turn data into information, and information into insight."*
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FFAA&center=true&vCenter=true&width=900&height=80&lines=🚀+The+goal+is+to+turn+data+into+information%2C;💡+and+information+into+insight." alt="Typing SVG" />
+</p>
 <!--
 **fareshisham576-lgtm/fareshisham576-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

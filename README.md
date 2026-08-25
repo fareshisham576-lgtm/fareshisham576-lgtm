@@ -15,7 +15,7 @@
 - Working with **RDBMS** — designing and optimizing relational databases
 - Currently learning: **Data Engineering pipelines**, **ETL**, and **Advanced SQL**
 - Based in Alexandria, Egypt
-- 📫 [fares@email.com](mailto:fares@email.com)
+- 📫 [fareshisham576@gmail.com](mailto:fareshisham576@gmail.com)
 
 ---
 

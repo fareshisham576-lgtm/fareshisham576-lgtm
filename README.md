@@ -42,11 +42,7 @@
 
 ---
 
-## 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fareshisham576-lgtm&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" width="45%" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fareshisham576-lgtm)
 
 ---
 

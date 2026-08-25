@@ -42,10 +42,6 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fareshisham576-lgtm)
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">

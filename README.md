@@ -35,12 +35,9 @@
 # 📊 Fares Hisham's GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fareshisham576-lgtm&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fareshisham576-lgtm&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fareshisham576-lgtm&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="40%" />
+  <img src="https://img.shields.io/github/followers/fareshisham576-lgtm?style=for-the-badge&logo=github&label=Followers&color=0D1117" />
+  <img src="https://img.shields.io/github/stars/fareshisham576-lgtm?style=for-the-badge&logo=github&label=Stars&color=0D1117" />
+  <img src="https://img.shields.io/github/commit-activity/m/fareshisham576-lgtm/fareshisham576-lgtm?style=for-the-badge&logo=github&label=Commits&color=0D1117" />
 </p>
 
 ---

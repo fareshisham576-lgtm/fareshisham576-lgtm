@@ -35,11 +35,17 @@
 ## 📊 Fares Hisham's GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/fareshisham576-lgtm?style=for-the-badge&logo=github&label=Followers&color=0D1117" />
-  <img src="https://img.shields.io/github/stars/fareshisham576-lgtm?style=for-the-badge&logo=github&label=Stars&color=0D1117" />
-  <img src="https://img.shields.io/github/commit-activity/m/fareshisham576-lgtm/fareshisham576-lgtm?style=for-the-badge&logo=github&label=Commits&color=0D1117" />
+  <a href="https://github.com/fareshisham576-lgtm">
+    <img src="https://img.shields.io/github/followers/fareshisham576-lgtm?style=for-the-badge&logo=github&label=Followers&color=0D1117&labelColor=161B22" alt="Followers" />
+  </a>
+  <a href="https://github.com/fareshisham576-lgtm">
+    <img src="https://img.shields.io/github/stars/fareshisham576-lgtm?style=for-the-badge&logo=github&label=Total%20Stars&color=0D1117&labelColor=161B22" alt="Total Stars" />
+  </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fareshisham576-lgtm&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Fares Hisham GitHub Stats" />
+</p>
 ---
 
 ## 🌐 Connect With Me

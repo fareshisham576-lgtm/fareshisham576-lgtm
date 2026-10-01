@@ -35,18 +35,13 @@
 ## 📊 Fares Hisham's GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/fareshisham576-lgtm">
-    <img src="https://img.shields.io/github/followers/fareshisham576-lgtm?style=for-the-badge&logo=github&label=Followers&color=0D1117&labelColor=161B22" alt="Followers" />
-  </a>
-  <a href="https://github.com/fareshisham576-lgtm">
-    <img src="https://img.shields.io/github/stars/fareshisham576-lgtm?style=for-the-badge&logo=github&label=Total%20Stars&color=0D1117&labelColor=161B22" alt="Total Stars" />
-  </a>
+  <img src="https://img.shields.io/github/followers/fareshisham576-lgtm?style=for-the-badge&logo=github&color=24292e&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/fareshisham576-lgtm?style=for-the-badge&logo=github&color=24292e&logoColor=white" alt="Stars" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fareshisham576-lgtm&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Fares Hisham GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fareshisham576-lgtm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" width="52%" alt="Fares Hisham GitHub Stats" />
 </p>
----
 
 ## 🌐 Connect With Me
 
